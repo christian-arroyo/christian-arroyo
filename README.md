@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Software Developer eager to learn new technologies. I was affected by a Reduction In Force at Teradata and I'm open to new opportunities
-
 * 🌍  I'm based in San Diego
 * ✉️  You can contact me at [chris.cap22@gmail.com](mailto:chris.cap22@gmail.com)
 
