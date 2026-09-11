@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [kube-commerce](https://github.com/christian-arroyo/kube-commerce)
 
-- 🌱 I’m currently learning **DevOps technologies**
+- 🌱 I’m currently focused on improving **DevOps technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/christian-arroyo](https://github.com/christian-arroyo)
 
